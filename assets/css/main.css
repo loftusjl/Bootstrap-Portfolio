@@ -1,3 +1,22 @@
 .navbar-brand{
     font-size: 2em;
 }
+.divider {
+    width: 2px;
+    margin: 6px 0;
+    background-color: #666;
+  }
+
+body{
+    background-image: url(../../assets/images/footer_lodyas.png);
+    margin-right: 0;
+}
+.double-space{
+    line-height: 2em;
+}
+.footer{
+    border-top: 5px solid #4aaaa5;
+}
+.footer span{
+    height: 50px;
+}
